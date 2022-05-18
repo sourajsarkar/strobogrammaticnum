@@ -1,7 +1,7 @@
 # strobogrammaticnum
 A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).
 
-#aliceappleproblem
+# aliceappleproblem
 There are different kinds of apple trees in the four directions (East, West, North, South), which may grow both red and green apples such that each tree grows exactly K apples, in the following manner:
 
 N – number of trees to the north do not have red apples.
